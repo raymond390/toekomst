@@ -1,5 +1,5 @@
 const { Guild, Message, MessageEmbed } = require("discord.js");
-const config = require("../config");
+
 
 Guild.prototype.translate = function(key, args) {
 	const language = this.client.translations.get(this.data.language);
@@ -60,7 +60,4 @@ MessageEmbed.prototype.successColor = function() {
 	return this;
 };
 
-MessageEmbed.prototype.defaultColor = function() {
-	this.setColor(config.color);
-	return this;
-};
+
