@@ -45,7 +45,7 @@ module.exports = {
 		// DBL: https://discordbots.org/api/docs#mybots
 		dbl: "",
 		// AMETHYSTE: https://api.amethyste.moe
-		amethyste: "",
+		amethyste: "e23839575669e3b4adafc948f5fa8ed358d6eb5424f9dfd8dd9d027cd004e7c262d61505eb3517917b79ffc7efc8018dc112ac130b4b84d08c27d308681a1edc",
 		// SENTRY: https://sentry.io (this is not required and not recommended - you can delete the field)
 		sentryDSN: ""
 	},
