@@ -20,8 +20,8 @@ module.exports = {
 	prefix: "!", // The default prefix for the bot
 	/* For the embeds (embeded messages) */
 	embed: {
-		color: "#0091fc", // The default color for the embeds
-		footer: "Test Server" // And the default footer for the embeds
+		color: "#ff0a0a", // The default color for the embeds
+		footer: "Zoetermeer" // And the default footer for the embeds
 	},
 	/* Bot's owner informations */
 	owner: {
@@ -57,11 +57,11 @@ module.exports = {
 	/* The Bot status */
 	status: [
 		{
-			name: "Test helpt op {serversCount} servers",
+			name: "Zoetermeer ",
 			type: "LISTENING"
 		},
 		{
-			name: "ben aan het leren",
+			name: "!help",
 			type: "PLAYING"
 		}
 	]
