@@ -44,20 +44,12 @@ class Achievements extends Command {
 			total: data.userData.achievements.slots.progress.total,
 			percent: Math.round(100 * (data.userData.achievements.slots.progress.now/data.userData.achievements.slots.progress.total))
 		}));
-		embed.addField(message.translate("economy/achievements:TIP"), message.translate("economy/achievements:PROGRESS", {
-			now: data.userData.achievements.tip.progress.now,
-			total: data.userData.achievements.tip.progress.total,
-			percent: Math.round(100 * (data.userData.achievements.tip.progress.now/data.userData.achievements.tip.progress.total))
-		}));
+	
 		embed.addField(message.translate("economy/achievements:REP"), message.translate("economy/achievements:PROGRESS", {
 			now: data.userData.achievements.rep.progress.now,
 			total: data.userData.achievements.rep.progress.total,
 			percent: Math.round(100 * (data.userData.achievements.rep.progress.now/data.userData.achievements.rep.progress.total))
-		}));
-		embed.addField(message.translate("economy/achievements:INVITE"), message.translate("economy/achievements:PROGRESS", {
-			now: data.userData.achievements.invite.progress.now,
-			total: data.userData.achievements.invite.progress.total,
-			percent: Math.round(100 * (data.userData.achievements.invite.progress.now/data.userData.achievements.invite.progress.total))
+	
 		}));
 
 		message.channel.send(embed);
