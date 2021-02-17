@@ -3,5 +3,5 @@
     "USAGE": "{{prefix}}lovecalc [@member1] (@member2)",
     "EXAMPLES": "{{prefix}}lovecalc Androz#2091\n{{prefix}}lovecalc Androz#2091 Will Parlons#4592",
     "MISSING": "Je moet twee leden noemen!",
-    "CONTENT": "There's **{{percent}}%** of love between **{{firstUsername}}** and **{{secondUsername}}**!\n**Congrats!**"
+    "CONTENT": "Er is **{{percent}}%** van liefde tussen **{{firstUsername}}** en **{{secondUsername}}**!\n**Proficiat!**"
 }

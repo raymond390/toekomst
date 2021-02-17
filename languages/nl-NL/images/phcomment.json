@@ -1,6 +1,6 @@
 {
-    "DESCRIPTION": "Genereert een \"phcomment\" afbeelding met behulp van de Nekobot API",
+    "DESCRIPTION": "Genereert een \"phcomment\"afbeelding ",
     "USAGE": "{{prefix}}phcomment (@member) [text]",
-    "EXAMPLES": "{{prefix}}phcomment Hoi!\n{{prefix}}phcomment @Androz#2091 Hoi!",
+    "EXAMPLES": "{{prefix}}phcomment Hoi!\n{{prefix}}phcomment Raymond#1362 Hoi!",
     "MISSING_TEXT": "Please specify the comment text!"
 }

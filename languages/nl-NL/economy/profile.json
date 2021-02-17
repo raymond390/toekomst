@@ -1,10 +1,10 @@
 {
-    "DESCRIPTION": "Shows the mentioned user or author profile",
+    "DESCRIPTION": "Toont het genoemde gebruikers- of auteursprofiel",
     "USAGE": "{{prefix}}profile [user]",
     "EXAMPLES": "{{prefix}}profile Androz#2091",
     "TITLE": "{{username}}'s profile",
     "NO_BIO": "",
-    "BOT_USER": "Bots don't have profile page!",
+    "BOT_USER": "Bots hebben geen profielpagina!",
     "CASH": "💵 Contant",
     "BANK": "💳 Bank",
     "GLOBAL": "🌍 Globaal geld",
@@ -21,5 +21,5 @@
     "ACHIEVEMENTS": "🔥 Réalisations",
     "ACHIEVEMENTS_CONTENT": "Krijg meer informatie met `{{prefix}}achievements`!",
     "BIO": "🔖 Biografie",
-    "YOUR_PROFILE": "Your profile"
+    "YOUR_PROFILE": "Jouw profiel"
 }

@@ -2,9 +2,9 @@
     "DESCRIPTION": "Geef iemand een reputatiepunt!",
     "USAGE": "{{prefix}}rep [user]",
     "EXAMPLES": "{{prefix}}rep @Androz#2091",
-    "COOLDOWN": "You have to wait {{time}} before being able to `rep` someone!",
-    "INVALID_USER": "You must mention a valid user!",
-    "BOT_USER": "Bots don't accept reputation points!",
+    "COOLDOWN": "Je moet wachten {{time}} wachten voordat je het kunt `rep` iemand!",
+    "INVALID_USER": "U moet een geldige gebruiker vermelden!",
+    "BOT_USER": "Bots accepteren geen reputatiepunten!",
     "YOURSELF": "Je kunt jezelf geen reputatiepunt geven!",
     "SUCCESS": "Je hebt zojuist een reputatiepunt gegeven aan {{username}}!"
 }

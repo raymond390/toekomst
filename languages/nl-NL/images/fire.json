@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Genereert een \"brand\" afbeelding met behulp van Amethyste API",
+    "DESCRIPTION": "Genereert een \"brand\" afbeelding  ",
     "USAGE": "{{prefix}}fire (@member)",
-    "EXAMPLES": "{{prefix}}fire\n{{prefix}}fire @Androz#2091"
+    "EXAMPLES": "{{prefix}}fire\n{{prefix}}fire Raymond#1362"
 }

@@ -5,6 +5,6 @@
     "MISSING_MEMBER": "Geef het lid op dat je wilt waarschuwen!",
     "MISSING_REASON": "Geef een reden op!",
     "WARNED_DM": "Hallo {{username}},\nJe bent zojuist gewaarschuwd op **{{server}}** door **{{moderator}}** voor **{{reason}}**!",
-    "WARNED": "**{{username}}** has been warned in private messages for **{{reason}}**!",
+    "WARNED": "**{{username}}** is in privéberichten gewaarschuwd voor **{{reason}}**!",
     "CASE": "Warn | Case #{{caseNumber}}"
 }

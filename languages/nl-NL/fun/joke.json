@@ -1,6 +1,6 @@
 {
-    "DESCRIPTION": "Gets a wonderful joke specially made for you!",
+    "DESCRIPTION": "Krijgt een geweldige grap speciaal voor jou gemaakt!",
     "USAGE": "{{prefix}}joke",
     "EXAMPLES": "{{prefix}}joke",
-    "FOOTER": "blague.xyz | Door Skiz#0001"
+    "FOOTER": "blague.xyz | Raymond#1362"
 }

@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "The Atlanta casino",
+    "DESCRIPTION": "The Zoetermeer casino",
     "USAGE": "{{prefix}}slots [amount]",
     "EXAMPLES": "{{prefix}}slots\n{{prefix}}slots 10",
     "DEFEAT": "**{{username}}** gebruikte {{money}} credit(s) en verloor alles.",
